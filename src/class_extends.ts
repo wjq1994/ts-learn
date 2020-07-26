@@ -1,3 +1,7 @@
+/**
+ * 类实现继承
+ */
+
 class Person {
     name: string = '666';
     constructor(name: string) {
